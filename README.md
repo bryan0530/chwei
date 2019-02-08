@@ -1,6 +1,6 @@
 # chwei
 一心命理館  
-OpenXML 應用，用於WORD 範本修改。
+C# OpenXML 應用，用於WORD 範本修改。
 
 環境要求: (以下環境，保證可用)
 1. Windows 7 
